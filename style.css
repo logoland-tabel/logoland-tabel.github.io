@@ -40,3 +40,13 @@ body {
     background-color: #f2f3f4;
     color: black;
   }
+
+summary {
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: background-color 0.2s ease;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
