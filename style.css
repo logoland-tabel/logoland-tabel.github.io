@@ -1,5 +1,5 @@
 details {
-    background: #fff;
+    background: seashell;
     border-radius: 12px;
     margin-bottom: 15px;
     padding: 10px 20px;
@@ -37,7 +37,7 @@ th, td {
 }
 
 body {
-    background-color: #f2f3f4;
+    background-color: whitesmoke;
     color: black;
   }
 
